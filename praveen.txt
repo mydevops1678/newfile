@@ -2,3 +2,4 @@ hi hoe are you
 welcome to newGIT world
 hi praveen
 new line added in master branch
+In praveen file new line added 
