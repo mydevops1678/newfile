@@ -4,3 +4,5 @@ hi praveen
 new line added in master branch
 In praveen file new line added 
 new line conflict
+newline1 praveen
+
